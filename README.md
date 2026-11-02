@@ -2,6 +2,9 @@
 Composite blocks that are crafted from multiple parts no longer drop themselves without **Silk Touch**.
 Without Silk Touch, they break into their components (usually one less than the crafting recipe).
 
+[![Modrinth](https://img.shields.io/modrinth/dt/jahus-more-blocks-need-silk-touch?logo=modrinth&label=Modrinth)](https://modrinth.com/datapack/jahus-more-blocks-need-silk-touch)
+[![CurseForge](https://img.shields.io/curseforge/dt/1780232?logo=curseforge&label=CurseForge)](https://www.curseforge.com/projects/1780232)
+
 Companion to [Logs need Silk Touch](https://modrinth.com/datapack/jahus-logs-need-silk-touch)
 
 ## Rules
